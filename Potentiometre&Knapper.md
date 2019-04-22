@@ -12,17 +12,18 @@ Lav et program der styrer hvornår en LED skal tændes ved hjælp af input fra e
 
 Inspiration: https://www.arduino.cc/en/Tutorial/AnalogInOutSerial
 
-## 1.3 Styr hvor mange LED'er på en række der tænder vha. et Potentiometer
+## 1.3 Styr hvor mange LED'er på en række der tænder vha. knapper
 
-Lav et program der afspiller lyd fra en Pizeo når der trykkes på en Knap.
+Lav et program der styrer hvor mange LED'er på en række der tænder hver gang man trykker på en knap.
+
+Inspiration: https://www.arduino.cc/en/Tutorial/Button
+
+## 1.4 Styr hvor mange LED'er på en række der tænder vha. et Potentiometer
+
+Lav et program hvor antallet af LED'er på en række tænder og slukker afhængig af hvor meget der er drejet på et potentiometer.
 
 Inspiration: https://www.arduino.cc/en/Tutorial/AnalogInOutSerial
 
-## 1.4 Styr hvor mange LED'er på en række der tænder vha. knapper
-
-Lav et program hvor lyd der afspilles fra en Piezo kan styrres med et Potentiometer.
-
-Inspiration: https://www.arduino.cc/en/Tutorial/Button
 
 
 ## Hjælpeværktøj
